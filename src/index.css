@@ -213,6 +213,7 @@ h1 {
   width: 45px;
   padding: 0.875rem;
   margin-right: 0;
+  border-radius: 4px;
 }
 .google_btn_txt{
   margin-left: 40px;
