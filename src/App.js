@@ -8,6 +8,7 @@ import Choose from './Components/Choose'
 import Bringteam from './Components/BringTeam'
 import Team from './Components/Teams'
 import Cards from './Components/Cards'
+import Footer from './Components/Footer'
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
     <Bringteam/>
     <Team/>
     <Cards/>
+    <Footer/>
+
     </>
   );
 }
